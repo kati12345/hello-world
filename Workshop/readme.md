@@ -1,0 +1,1 @@
+Tämä on Laurean websovelluskehitysopintojaksolle 
